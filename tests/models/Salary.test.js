@@ -1,6 +1,7 @@
 import { describe, it } from 'vitest';
 
 // TODO: Import expect and beforeEach from 'vitest'.
+import { expect, beforeEach } from 'vitest';
 // TODO: Import Salary.
 
 describe('Salary', () => {
